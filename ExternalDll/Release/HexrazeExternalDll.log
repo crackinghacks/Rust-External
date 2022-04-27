@@ -1,0 +1,142 @@
+﻿  dllmain.cpp
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\DWrite.h(4962,1): warning C4005: DWRITE_E_FILEFORMAT: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56787): message : см. предыдущее определение "DWRITE_E_FILEFORMAT"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\DWrite.h(4967,1): warning C4005: DWRITE_E_UNEXPECTED: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56796): message : см. предыдущее определение "DWRITE_E_UNEXPECTED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\DWrite.h(4972,1): warning C4005: DWRITE_E_NOFONT: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56805): message : см. предыдущее определение "DWRITE_E_NOFONT"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\DWrite.h(4978,1): warning C4005: DWRITE_E_FILENOTFOUND: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56814): message : см. предыдущее определение "DWRITE_E_FILENOTFOUND"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\DWrite.h(4983,1): warning C4005: DWRITE_E_FILEACCESS: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56823): message : см. предыдущее определение "DWRITE_E_FILEACCESS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\DWrite.h(4988,1): warning C4005: DWRITE_E_FONTCOLLECTIONOBSOLETE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56832): message : см. предыдущее определение "DWRITE_E_FONTCOLLECTIONOBSOLETE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\DWrite.h(4993,1): warning C4005: DWRITE_E_ALREADYREGISTERED: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56841): message : см. предыдущее определение "DWRITE_E_ALREADYREGISTERED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(12,1): warning C4005: DXGI_STATUS_OCCLUDED: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55840): message : см. предыдущее определение "DXGI_STATUS_OCCLUDED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(13,1): warning C4005: DXGI_STATUS_CLIPPED: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55849): message : см. предыдущее определение "DXGI_STATUS_CLIPPED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(14,1): warning C4005: DXGI_STATUS_NO_REDIRECTION: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55858): message : см. предыдущее определение "DXGI_STATUS_NO_REDIRECTION"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(15,1): warning C4005: DXGI_STATUS_NO_DESKTOP_ACCESS: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55867): message : см. предыдущее определение "DXGI_STATUS_NO_DESKTOP_ACCESS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(16,1): warning C4005: DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55876): message : см. предыдущее определение "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(17,1): warning C4005: DXGI_STATUS_MODE_CHANGED: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55885): message : см. предыдущее определение "DXGI_STATUS_MODE_CHANGED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(18,1): warning C4005: DXGI_STATUS_MODE_CHANGE_IN_PROGRESS: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55894): message : см. предыдущее определение "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(21,1): warning C4005: DXGI_ERROR_INVALID_CALL: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55909): message : см. предыдущее определение "DXGI_ERROR_INVALID_CALL"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(22,1): warning C4005: DXGI_ERROR_NOT_FOUND: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55918): message : см. предыдущее определение "DXGI_ERROR_NOT_FOUND"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(23,1): warning C4005: DXGI_ERROR_MORE_DATA: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55927): message : см. предыдущее определение "DXGI_ERROR_MORE_DATA"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(24,1): warning C4005: DXGI_ERROR_UNSUPPORTED: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55936): message : см. предыдущее определение "DXGI_ERROR_UNSUPPORTED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(25,1): warning C4005: DXGI_ERROR_DEVICE_REMOVED: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55945): message : см. предыдущее определение "DXGI_ERROR_DEVICE_REMOVED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(26,1): warning C4005: DXGI_ERROR_DEVICE_HUNG: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55954): message : см. предыдущее определение "DXGI_ERROR_DEVICE_HUNG"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(27,1): warning C4005: DXGI_ERROR_DEVICE_RESET: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55964): message : см. предыдущее определение "DXGI_ERROR_DEVICE_RESET"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(28,1): warning C4005: DXGI_ERROR_WAS_STILL_DRAWING: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55973): message : см. предыдущее определение "DXGI_ERROR_WAS_STILL_DRAWING"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(29,1): warning C4005: DXGI_ERROR_FRAME_STATISTICS_DISJOINT: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55983): message : см. предыдущее определение "DXGI_ERROR_FRAME_STATISTICS_DISJOINT"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(30,1): warning C4005: DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55992): message : см. предыдущее определение "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(31,1): warning C4005: DXGI_ERROR_DRIVER_INTERNAL_ERROR: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56002): message : см. предыдущее определение "DXGI_ERROR_DRIVER_INTERNAL_ERROR"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(32,1): warning C4005: DXGI_ERROR_NONEXCLUSIVE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56011): message : см. предыдущее определение "DXGI_ERROR_NONEXCLUSIVE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(33,1): warning C4005: DXGI_ERROR_NOT_CURRENTLY_AVAILABLE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56020): message : см. предыдущее определение "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(34,1): warning C4005: DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56030): message : см. предыдущее определение "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(35,1): warning C4005: DXGI_ERROR_REMOTE_OUTOFMEMORY: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56039): message : см. предыдущее определение "DXGI_ERROR_REMOTE_OUTOFMEMORY"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(917,1): warning C4005: D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56303): message : см. предыдущее определение "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(918,1): warning C4005: D3D11_ERROR_FILE_NOT_FOUND: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56312): message : см. предыдущее определение "D3D11_ERROR_FILE_NOT_FOUND"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(919,1): warning C4005: D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56322): message : см. предыдущее определение "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(920,1): warning C4005: D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56331): message : см. предыдущее определение "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(608,1): warning C4005: D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56279): message : см. предыдущее определение "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(609,1): warning C4005: D3D10_ERROR_FILE_NOT_FOUND: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56288): message : см. предыдущее определение "D3D10_ERROR_FILE_NOT_FOUND"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(59,1): warning C4005: D2DERR_WRONG_STATE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56368): message : см. предыдущее определение "D2DERR_WRONG_STATE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(64,1): warning C4005: D2DERR_NOT_INITIALIZED: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56377): message : см. предыдущее определение "D2DERR_NOT_INITIALIZED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(69,1): warning C4005: D2DERR_UNSUPPORTED_OPERATION: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56386): message : см. предыдущее определение "D2DERR_UNSUPPORTED_OPERATION"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(74,1): warning C4005: D2DERR_SCANNER_FAILED: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56395): message : см. предыдущее определение "D2DERR_SCANNER_FAILED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(79,1): warning C4005: D2DERR_SCREEN_ACCESS_DENIED: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56404): message : см. предыдущее определение "D2DERR_SCREEN_ACCESS_DENIED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(84,1): warning C4005: D2DERR_DISPLAY_STATE_INVALID: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56413): message : см. предыдущее определение "D2DERR_DISPLAY_STATE_INVALID"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(89,1): warning C4005: D2DERR_ZERO_VECTOR: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56422): message : см. предыдущее определение "D2DERR_ZERO_VECTOR"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(97,1): warning C4005: D2DERR_INTERNAL_ERROR: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56431): message : см. предыдущее определение "D2DERR_INTERNAL_ERROR"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(103,1): warning C4005: D2DERR_DISPLAY_FORMAT_NOT_SUPPORTED: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56440): message : см. предыдущее определение "D2DERR_DISPLAY_FORMAT_NOT_SUPPORTED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(108,1): warning C4005: D2DERR_INVALID_CALL: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56449): message : см. предыдущее определение "D2DERR_INVALID_CALL"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(113,1): warning C4005: D2DERR_NO_HARDWARE_DEVICE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56458): message : см. предыдущее определение "D2DERR_NO_HARDWARE_DEVICE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(119,1): warning C4005: D2DERR_RECREATE_TARGET: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56467): message : см. предыдущее определение "D2DERR_RECREATE_TARGET"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(124,1): warning C4005: D2DERR_TOO_MANY_SHADER_ELEMENTS: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56476): message : см. предыдущее определение "D2DERR_TOO_MANY_SHADER_ELEMENTS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(129,1): warning C4005: D2DERR_SHADER_COMPILE_FAILED: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56485): message : см. предыдущее определение "D2DERR_SHADER_COMPILE_FAILED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(134,1): warning C4005: D2DERR_MAX_TEXTURE_SIZE_EXCEEDED: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56494): message : см. предыдущее определение "D2DERR_MAX_TEXTURE_SIZE_EXCEEDED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(139,1): warning C4005: D2DERR_UNSUPPORTED_VERSION: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56503): message : см. предыдущее определение "D2DERR_UNSUPPORTED_VERSION"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(144,1): warning C4005: D2DERR_BAD_NUMBER: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56512): message : см. предыдущее определение "D2DERR_BAD_NUMBER"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(149,1): warning C4005: D2DERR_WRONG_FACTORY: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56521): message : см. предыдущее определение "D2DERR_WRONG_FACTORY"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(154,1): warning C4005: D2DERR_LAYER_ALREADY_IN_USE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56530): message : см. предыдущее определение "D2DERR_LAYER_ALREADY_IN_USE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(159,1): warning C4005: D2DERR_POP_CALL_DID_NOT_MATCH_PUSH: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56539): message : см. предыдущее определение "D2DERR_POP_CALL_DID_NOT_MATCH_PUSH"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(164,1): warning C4005: D2DERR_WRONG_RESOURCE_DOMAIN: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56548): message : см. предыдущее определение "D2DERR_WRONG_RESOURCE_DOMAIN"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(169,1): warning C4005: D2DERR_PUSH_POP_UNBALANCED: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56557): message : см. предыдущее определение "D2DERR_PUSH_POP_UNBALANCED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(174,1): warning C4005: D2DERR_RENDER_TARGET_HAS_LAYER_OR_CLIPRECT: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56566): message : см. предыдущее определение "D2DERR_RENDER_TARGET_HAS_LAYER_OR_CLIPRECT"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(179,1): warning C4005: D2DERR_INCOMPATIBLE_BRUSH_TYPES: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56575): message : см. предыдущее определение "D2DERR_INCOMPATIBLE_BRUSH_TYPES"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(184,1): warning C4005: D2DERR_WIN32_ERROR: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56584): message : см. предыдущее определение "D2DERR_WIN32_ERROR"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(189,1): warning C4005: D2DERR_TARGET_NOT_GDI_COMPATIBLE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56593): message : см. предыдущее определение "D2DERR_TARGET_NOT_GDI_COMPATIBLE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(194,1): warning C4005: D2DERR_TEXT_EFFECT_IS_WRONG_TYPE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56602): message : см. предыдущее определение "D2DERR_TEXT_EFFECT_IS_WRONG_TYPE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(201,1): warning C4005: D2DERR_TEXT_RENDERER_NOT_RELEASED: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56611): message : см. предыдущее определение "D2DERR_TEXT_RENDERER_NOT_RELEASED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(206,1): warning C4005: D2DERR_EXCEEDS_MAX_BITMAP_SIZE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56620): message : см. предыдущее определение "D2DERR_EXCEEDS_MAX_BITMAP_SIZE"
+C:\Users\Encryptme\Desktop\HexrazeExternal\HexrazeExternalDll\myMath.h(251,25): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Encryptme\Desktop\HexrazeExternal\HexrazeExternalDll\myMath.h(253,19): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Encryptme\Desktop\HexrazeExternal\HexrazeExternalDll\myMath.h(255,19): warning C4305: -=: усечение из "double" в "float"
+C:\Users\Encryptme\Desktop\HexrazeExternal\HexrazeExternalDll\myMath.h(257,19): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Encryptme\Desktop\HexrazeExternal\HexrazeExternalDll\myMath.h(258,32): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Encryptme\Desktop\HexrazeExternal\HexrazeExternalDll\myMath.h(267,66): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Encryptme\Desktop\HexrazeExternal\HexrazeExternalDll\rustSDK\RustSDK.h(130,2): warning C4091: typedef : пропускается слева от "wchar_str", когда ни одна переменная не объявлена
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\Encryptme\Desktop\HexrazeExternal\HexrazeExternalDll\rustSDK\RustSDK.cpp(550): warning C4715: WeaponData::set_addr: значение возвращается не при всех путях выполнения
+  All 1620 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  HexrazeExternalDll.vcxproj -> C:\Users\Encryptme\Desktop\HexrazeExternal\Release\HexrazeExternalDll.dll
